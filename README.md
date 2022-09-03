@@ -23,4 +23,4 @@ calendar (first dropdown box) to which calendar (second dropdown box) you want t
 
 Give a ⭐️ if you like this project!
 
-&copy;
+&copy; 2016 All rights reserved.
