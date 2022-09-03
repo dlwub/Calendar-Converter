@@ -1,4 +1,4 @@
-# Ethiopian-Calendar-Converter
+# Calendar-Converter
 
 Calendar Converter enables to convert dates in Ethiopian, European, and Hijri calendars from one to another.
   
