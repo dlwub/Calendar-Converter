@@ -6,6 +6,8 @@ Calendar Converter enables to convert dates in Ethiopian, European, and Hijri ca
 To convert a date insert the date in the first box in the order date, month and year (8 digits) and choose from which
 calendar (first dropdown box) to which calendar (second dropdown box) you want to change and press the 'Change' button.
 
+![alt text](CalendarConverter.png)
+
 ## Technologies used
 
 - Java 8
