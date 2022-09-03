@@ -3,6 +3,7 @@
 Calendar Converter enables to convert dates in Ethiopian, European, and Hijri calendars from one to another.
   
 ## How to use the app:
+To use the app, download this repository and put the CalendarConverter.jar excutable file in your computer. It opens when you double click it.
 To convert a date insert the date in the first box in the order date, month and year (8 digits) and choose from which
 calendar (first dropdown box) to which calendar (second dropdown box) you want to change and press the 'Change' button.
 
