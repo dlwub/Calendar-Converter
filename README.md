@@ -7,6 +7,10 @@ To convert a date insert the date in the first box in the order date, month and 
 calendar (first dropdown box) to which calendar (second dropdown box) you want to change and press the 'Change' button.
 
 ![alt text](CalendarConverter.png)
+<em>Screen shot of Calendar converter - European calendar to Hijri</em>
+
+![alt text](CalendarConverter(2).png)
+<em>Screen shot of Calendar converter - Ethiopian calendar to European</em>
 
 ## Technologies used
 
